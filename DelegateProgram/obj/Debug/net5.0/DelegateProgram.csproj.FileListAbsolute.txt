@@ -1,0 +1,16 @@
+D:\Dev\BACKEND\C#\DelegateProgram\DelegateProgram\bin\Debug\net5.0\DelegateProgram.exe
+D:\Dev\BACKEND\C#\DelegateProgram\DelegateProgram\bin\Debug\net5.0\DelegateProgram.deps.json
+D:\Dev\BACKEND\C#\DelegateProgram\DelegateProgram\bin\Debug\net5.0\DelegateProgram.runtimeconfig.json
+D:\Dev\BACKEND\C#\DelegateProgram\DelegateProgram\bin\Debug\net5.0\DelegateProgram.runtimeconfig.dev.json
+D:\Dev\BACKEND\C#\DelegateProgram\DelegateProgram\bin\Debug\net5.0\DelegateProgram.dll
+D:\Dev\BACKEND\C#\DelegateProgram\DelegateProgram\bin\Debug\net5.0\DelegateProgram.pdb
+D:\Dev\BACKEND\C#\DelegateProgram\DelegateProgram\obj\Debug\net5.0\DelegateProgram.csproj.AssemblyReference.cache
+D:\Dev\BACKEND\C#\DelegateProgram\DelegateProgram\obj\Debug\net5.0\DelegateProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\BACKEND\C#\DelegateProgram\DelegateProgram\obj\Debug\net5.0\DelegateProgram.AssemblyInfoInputs.cache
+D:\Dev\BACKEND\C#\DelegateProgram\DelegateProgram\obj\Debug\net5.0\DelegateProgram.AssemblyInfo.cs
+D:\Dev\BACKEND\C#\DelegateProgram\DelegateProgram\obj\Debug\net5.0\DelegateProgram.csproj.CoreCompileInputs.cache
+D:\Dev\BACKEND\C#\DelegateProgram\DelegateProgram\obj\Debug\net5.0\DelegateProgram.dll
+D:\Dev\BACKEND\C#\DelegateProgram\DelegateProgram\obj\Debug\net5.0\refint\DelegateProgram.dll
+D:\Dev\BACKEND\C#\DelegateProgram\DelegateProgram\obj\Debug\net5.0\DelegateProgram.pdb
+D:\Dev\BACKEND\C#\DelegateProgram\DelegateProgram\obj\Debug\net5.0\DelegateProgram.genruntimeconfig.cache
+D:\Dev\BACKEND\C#\DelegateProgram\DelegateProgram\obj\Debug\net5.0\ref\DelegateProgram.dll
